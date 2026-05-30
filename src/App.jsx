@@ -5,7 +5,7 @@ function App() {
         <h1>Hello from CI/CD!</h1>
         <p>
           This React app is automatically deployed to EC2 via GitHub Actions.I'm
-          changing this statement for practise.what is going on.
+          changing this statement for practise.what is going on.again changing.
         </p>
         <p>
           Push any change to the <code>main</code> branch and watch it go live.
